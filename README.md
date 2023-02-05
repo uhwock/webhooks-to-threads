@@ -16,7 +16,7 @@ $ py webhooktothreads.py
 
 # Using a JSON for the Embed
 
-When using the script it will ask for a JSON file path, The JSON file is what contains the webhook data and to make an embed in JSON you can use [Discohook](https://discohook.org/)
+When using the script it will ask for a JSON file path, The JSON file is what contains the webhook data, To make an embed in JSON you can use [Discohook](https://discohook.org/)
 
 You can now make an embed or whatever you'd like and once you're done near the bottom is a box that says "JSON Data Editor", Open it then copy and paste the data into the `embed.json` file and you're done.
 
